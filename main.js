@@ -1,7 +1,7 @@
 Main = {};
 Main.WordArray = [];
 Main.WordUArray = [];
-Main.Lives = 4;
+Main.Lives = 6;
 
 Main.NumberInWordbank = 10; // including zero
 
